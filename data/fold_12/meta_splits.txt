@@ -1,0 +1,4 @@
+{
+	"meta-train": ["bottle", "capsule", "tile", "pill", "wood", "toothbrush", "cable", "transistor"],
+	"meta-test": ["carpet", "hazelnut", "leather", "metal_nut"]
+}
